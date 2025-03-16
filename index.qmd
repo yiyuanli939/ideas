@@ -1,13 +1,15 @@
 ---
-title: "yiyuan.github.io"
+title: "Yiyuan Li"
+image: media/me_pic.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: round
+  image-width: 17em
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Reed College | Portland, OR
 
-```{r}
-1 + 1
-```
-
-This is a website. 
+Computer Science & Mathematics
