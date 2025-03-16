@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "yiyuan.github.io"
+  title: "Yiyuan Li"
   navbar:
     left:
       - href: index.qmd
